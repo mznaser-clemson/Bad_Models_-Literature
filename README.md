@@ -24,7 +24,7 @@ A list of notable sources on bad models
 [19]	M.Z. Naser, A.H. Alavi, Error Metrics and Performance Fitness Indicators for Artificial Intelligence and Machine Learning in Engineering and Sciences, Architecture, Structures and Construction. 1 (2021) pp. 1–19. https://doi.org/https://doi.org/10.1007/s44150-021-00015-8.  
 [20]	T. Hastie, R. Tibshirani, J.H. Friedman, MyiLibrary., The elements of statistical learning data mining, inference, and prediction : with 200 full-color illustrations, Springer Series in Statistics. (2001).  
 [21]	A. Chakarov, A. Nori, S. Rajamani B, S. Sen, D. Vijaykeerthy, Debugging Machine Learning Tasks, (2016). https://arxiv.org/abs/1603.07292v1 (accessed February 1, 2025).  
-[22]	C. Szegedy, W. Zaremba, I. Sutskever, J. Bruna, D. Erhan, I. Goodfellow, R. Fergus, Intriguing properties of neural networks, (n.d.).  
+[22]	C. Szegedy, W. Zaremba, I. Sutskever, J. Bruna, D. Erhan, I. Goodfellow, R. Fergus, Intriguing properties of neural networks, https://doi.org/10.48550/arXiv.1312.6199 (2013).  
 [23]	A. Rosenfeld, J.K. Tsotsos, Intriguing properties of randomly weighted networks: Generalizing while learning next to nothing, in: Proc. - 2019 16th Conf. Comput. Robot Vision, CRV 2019, 2019. https://doi.org/10.1109/CRV.2019.00010.  
 [24]	G. Hinton, O. Vinyals, J. Dean, Distilling the Knowledge in a Neural Network, (2015). https://arxiv.org/abs/1503.02531v1 (accessed February 1, 2025).  
 [25]	Y. Bengio, J. Louradour, R. Collobert, J. Weston, Curriculum learning, ACM International Conference Proceeding Series. 382 (2009). https://doi.org/10.1145/1553374.1553380.  
@@ -121,7 +121,7 @@ A list of notable sources on bad models
 [116]	Z. Shang, E. Zgraggen, B. Buratti, F. Kossmann, P. Eichmann, Y. Chung, C. Binnig, E. Upfal, T. Kraska, Democratizing data science through interactive curation of ML pipelines, Proceedings of the ACM SIGMOD International Conference on Management of Data. (2019) pp. 1171–1188. https://doi.org/10.1145/3299869.3319863.  
 [117]	A. Mumuni, F. Mumuni, Data augmentation with automated machine learning: approaches and performance comparison with classical data augmentation methods, Knowledge and Information Systems 2025. (2024) pp. 1–51. https://doi.org/10.1007/S10115-025-02349-X/TABLES/4.  
 [118]	V. Cerqueira, H.M. Gomes, A. Bifet, L. Torgo, STUDD: a student–teacher method for unsupervised concept drift detection, Machine Learning. (2023). https://doi.org/10.1007/s10994-022-06188-7.  
-[119]	H. Jeong, S. Barbara, M.D. Wu, N. Dasgupta, U. Amherst, M.M. Mit, F. Calmon, Who Gets the Benefit of the Doubt? Racial Bias in Machine Learning Algorithms Applied to Secondary School Math Education, (n.d.).  
+[119]	H. Jeong, S. Barbara, M.D. Wu, N. Dasgupta, U. Amherst, M.M. Mit, F. Calmon, Who Gets the Benefit of the Doubt? Racial Bias in Machine Learning Algorithms Applied to Secondary School Math Education, [(n.d.)](https://fated2022.github.io/assets/pdf/FATED-2022_paper_Jeong_Racial_Bias_ML_Algs.pdf).  
 [120]	Q. Zhao, T. Hastie, Causal Interpretations of Black-Box Models, Journal of Business and Economic Statistics. (2021). https://doi.org/10.1080/07350015.2019.1624293.  
 [121]	B. Schölkopf, FastForwardLabs, B. Schölkopf, Causality for Machine Learning, Probabilistic and Causal Inference. (2022). https://doi.org/10.1145/3501714.3501755.  
 [122]	A.T. Nguyen, P.H.S. Torr, S.N. Lim, FedSR: A Simple and Effective Domain Generalization Method for Federated Learning, in: Adv. Neural Inf. Process. Syst., 2022.  

@@ -1,4 +1,4 @@
-# Literature_on_Bad_ML_Models
+# Literature on Bad ML Models
 A list of notable sources on bad models  
 
 **References**  
